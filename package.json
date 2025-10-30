@@ -1,0 +1,24 @@
+{
+  "name": "11ty",
+  "version": "1.0.0",
+  "description": "Experimenting with 11ty",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clarice-COD/11ty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clarice-COD/11ty/issues"
+  },
+  "homepage": "https://github.com/Clarice-COD/11ty#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
