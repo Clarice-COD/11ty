@@ -1,5 +1,5 @@
 ---
-title: My second post
+title: My second cat post
 ---
 
 This is my second post to my 11ty blog. 

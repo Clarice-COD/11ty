@@ -1,5 +1,5 @@
 ---
-title: My third post
+title: My third cat post
 ---
 
 This is my third post to my 11ty blog. 

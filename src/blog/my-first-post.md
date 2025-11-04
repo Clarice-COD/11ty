@@ -1,5 +1,5 @@
 ---
-title: My first post
+title: My first cat post
 ---
 
 This is my first post to my 11ty blog.
